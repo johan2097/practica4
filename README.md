@@ -1,3 +1,3 @@
-# sofka4
+# practica 4
 
 Taller de arreglos 
